@@ -1,0 +1,9 @@
+POST http://localhost:7777/app/signup 
+Content-Type: application/json
+
+{
+    "fullName":"aditis",
+    "username":"kumariaditi",
+    "email":"afdg@gmail.com",
+    "password":"4566"
+}
